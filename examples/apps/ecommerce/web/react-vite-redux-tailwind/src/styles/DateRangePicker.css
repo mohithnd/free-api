@@ -1,0 +1,7 @@
+div.rdp {
+  --rdp-accent-color: #db4444; /* Accent color for the background of selected days. */
+}
+
+button.rdp-day_selected {
+  background-color: var(--rdp-accent-color);
+}
